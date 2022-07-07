@@ -1,6 +1,3 @@
-[submodule "App-Restaurante-React"]
-	path = App-Restaurante-React
-	url = https://github.com/jesusmarzor/App-Restaurante-React
 [submodule "front"]
 	path = front
 	url = https://github.com/jesusmarzor/App-Restaurante-React
